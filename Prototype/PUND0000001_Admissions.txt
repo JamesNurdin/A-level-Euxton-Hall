@@ -1,0 +1,5 @@
+AUND0000001,Physiotherapy,John,12/12/2099 19:2,true,3,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Tom,08/09/2019,STOM0000001,CSUT0000002
+AUND0000003,Physiotherapy,Will,12/12/2099 19:02,true,0,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,09/09/2019,STOM0000001,CSUT0000001
+AUND0000004,Physiotherapy,Will,12/12/2099 19:02,true,0,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,09/09/2019,STOM0000001,CSUT0000001
+AUND0000002,Physiotherapy,Will,12/12/2099 19:02,true,0,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,09/09/2019,STOM0000001,CSUT0000001
+AUND0000005,Physiotherapy,Will,12/12/2099 19:02,true,0,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,09/09/2019,STOM0000001,CSUT0000001

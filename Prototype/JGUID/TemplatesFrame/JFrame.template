@@ -1,0 +1,51 @@
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class GuiDFrame extends JFrame implements ActionListener 
+{
+//[JTabbedPaneDec1]
+
+//[StartVariables]
+    JPanel MYPANEL = new JPanel(null); //layout
+[Variables]
+//[EndVariables]
+
+//[StartFrameSettings]
+    public void startGUI()
+    {
+        this.setLayout(new GridLayout(1,1));
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+        genericBoringMethodName();
+//[JTabbedPaneDec2]	
+        this.add(MYPANEL);
+[FRAMESETTINGS]
+    }
+//[EndFrameSettings]
+
+
+//[StartIntialization]
+    public void genericBoringMethodName()
+    {
+[Intialization]
+    }
+//[EndIntialization]
+
+
+    public void actionPerformed(ActionEvent e)
+    {
+	//[StartActions]
+[ACTIONLISTENERS]
+	//[EndActions]
+    }
+
+	
+    public static void main(String[] args )
+    {
+        GuiDFrame myguidobject = new GuiDFrame();
+        myguidobject.startGUI();
+    }
+}  
+
+

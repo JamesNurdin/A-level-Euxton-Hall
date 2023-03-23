@@ -1,0 +1,3 @@
+DHAR0000001,12/09/2019 23:14,Consultant Notes,,,,,hello b,, 
+DHAR0000002,17/09/2019 13:41,Consultant Notes,,,,,test,, 
+DHAR0000003,17/09/2019 15:06,Test Results,,,,,,This is a test to check functionality. ,No issues

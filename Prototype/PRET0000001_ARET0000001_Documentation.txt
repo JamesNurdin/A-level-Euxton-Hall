@@ -1,0 +1,4 @@
+DRET0000001,30/09/2019 17:31,Prescription,,,,30/09/2019 17:31, , , 
+DRET0000002,30/09/2019 17:31,Consultant Notes,,,,,a,, 
+DRET0000003,30/09/2019 17:32,Test Results,,,,,,a,Inconclusive
+DRET0000004,30/09/2019 17:32,Dischargment,,,,,,, 

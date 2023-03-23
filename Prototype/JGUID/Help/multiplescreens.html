@@ -1,0 +1,56 @@
+<html>
+<body>
+<h1>
+Multiple Screens
+</h1>
+JGuiD can only create 1 window with a single JPanel. However, with a bit of code editing, it is possible to create a program capable of displaying multiple screens.
+
+<br><br>
+
+After a single window has been designed and exported using JGuiD, another complete window is not normally needed. Instead, design the new window in JGuiD but selectively copy the code and insert it into the code for the first window using a text editor, e.g. Notepad++. The view code screen will help to identify each block of code needed.
+<br><br>
+<hr>
+Below are some common techniques in Java for having multiple screens: <br>
+<ol>
+<li>Multiple Tabs</li>
+<li>Multiple JPanels on one screen</li>
+<li>Multiple JFrames</li>
+</ol>
+
+<hr>
+
+<b>(Easy) <u>Multiple Tabs</u></b><br>Using a JTabbedPane, a JPanel can be added to each tab and these tabs can be switched between as needed.<br>
+<p  style="color:red;font-family:consolas">
+JTabbedPane myTabs = new JTabbedPane();<br>
+JPanel panelOne = new JPanel();<br>
+JPanel panelTwo = new JPanel();<br>
+<br>
+myTabs.addTab("First",panelOne)<br>
+myTabs.addTab("Second",panelTwo)<br>
+</p>
+<hr>
+<br>
+<b>(Advanced) <u>Multiple JPanels</u></b><br>JPanels are all added to the same location but only 1 JPanel is made visible at any one time. As another panel is needed, the visisble panel is set as invisible and the required panel is now set as visible.<br>
+<p  style="color:red;font-family:consolas">
+JPanel panelOne = new JPanel();<br>
+JPanel panelTwo = new JPanel();<br>
+<br>
+panelOne.setVisible(false);<br>
+panelTwo.setVisible(true);<br>
+</p>
+<hr>
+<br>
+<b>(Messy) <u>Multiple JFrames</u></b><br>Create each frame separately in JGUID. As a button is clicked, it will close itself and open up an instance of another window. This is messy as <b>data cannot be shared between the frames and will involve  more file handling operations</b> being called as the user moves between windows. <br>
+
+<p  style="color:red;font-family:consolas">
+JFrame windowOne = new JFrame();<br>
+JFrame windowTwo = new JFrame();<br>
+<br>
+windowOne.setVisible(false);<br>
+windowTwo.setVisible(true);<br>
+</p>
+
+<hr>
+
+</body>
+</html>

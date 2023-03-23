@@ -1,0 +1,5 @@
+ACAR0000001,Physiotherapy,John,12/12/2099 19:02,true,3,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,10/09/2019,STOM0000001,CSUT0000002
+ACAR0000002,Physiotherapy,Will,12/12/2099 19:02,true,9,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,12/10/2019,STOM0000001,CSUT0000001
+ACAR0000003,Physiotherapy,John,12/12/2099 19:02,true,3,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,12/10/2019,STOM0000001,CSUT0000002
+ACAR0000004,Physiotherapy,Will,12/12/2099 19:02,true,0,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,12/10/2019,STOM0000001,CSUT0000001
+ACAR0000005,Physiotherapy,Will,12/12/2099 19:02,true,0,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,12/10/2019,STOM0000001,CSUT0000001

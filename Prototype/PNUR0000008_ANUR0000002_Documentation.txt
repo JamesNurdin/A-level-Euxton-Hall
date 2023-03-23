@@ -1,0 +1,2 @@
+DNUR0000001,12/09/2019 21:04,Consultant Notes,,,,,oj,, 
+DNUR0000002,17/09/2019 13:47,Prescription,aa,a,a,17/09/2019 13:47, , , 

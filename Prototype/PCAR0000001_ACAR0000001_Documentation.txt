@@ -1,0 +1,3 @@
+DCAR0000001,10/09/2019 12:02,Consultant Notes,,,,,Hi,, 
+DCAR0000002,10/09/2019 12:02,Dischargment,,,,,,, 
+DCAR0000003,10/09/2019 12:34,Reinstatement,,,,,,, 

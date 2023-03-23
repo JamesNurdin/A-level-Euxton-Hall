@@ -1,0 +1,9 @@
+DCAR0000001,12/10/2019 15:06,Consultant Notes,,,,,t,, 
+DCAR0000002,12/10/2019 15:11,Test Results,,,,,,t,Inconclusive
+DCAR0000003,12/10/2019 15:15,Consultant Notes,,,,,a,, 
+DCAR0000004,12/10/2019 15:22,Consultant Notes,,,,,w,, 
+DCAR0000005,12/10/2019 15:26,Consultant Notes,,,,,j,, 
+DCAR0000006,12/10/2019 15:28,Test Results,,,,,,t,Action required
+DCAR0000007,12/10/2019 15:29,Consultant Notes,,,,,k,, 
+DCAR0000008,12/10/2019 15:34,Consultant Notes,,,,,w,, 
+DCAR0000009,12/10/2019 15:41,Consultant Notes,,,,,t,, 

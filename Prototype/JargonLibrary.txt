@@ -1,0 +1,22 @@
+Acne@Acne is a common skin disease characterized by pimples on the face, chest, and back. It occurs when the pores of the skin become clogged with oil, dead skin cells, and bacteria.@
+Detoxification@Detoxification is one of the more widely used treatments and concepts in alternative medicine. It is based on the principle that illnesses can be caused by the accumulation of toxic substances (toxins) in the body.@
+Lead@An electrocardiographic cable with connections within the electronics of the machine designated for an electrode placed at a particular point on the body surface.@
+Meridian@an imaginary line on the surface of a globe or sphere, connecting the opposite ends of its axis.@
+Paradox@That which is apparently, although not actually, inconsistent with or opposed to the known facts in any case.@
+Consider@deem to be@
+Hardware@Describes all the physical, electronic and mechanical components forming part of a computer system.@
+Control Unit@manages the execution of instructions (Fetch-Decode-Execute)@
+ALU@processes and manipulates data by performing arithmetic operations@
+Register@is used as a temporary data store (used for a specific purpose)@
+RAM@Temporary store that contains programs or data currently in use@
+RAM Cache Memory@is part of main memory, between the CPU and the rest of main memory. The use of cache memory can greatly reduce processing time.@
+Bus@is used to connect the different parts of the computer and carries data/addresses to these parts.@
+Address Bus@carries the memory location about where the data being sent@
+Data Bus@carries the actual information@
+Parallel Processing@is the simultaneous use of several processors to perform a single task@
+Program Counter (PC)@Points to the next instruction to be fetched and executed@
+Memory Address Register (MAR)@Holds the address of the currently addressed memory location@
+Memory Data Register (MDR)@holds the code read from the currently addressed memory location@
+Current Instruction Register (CIR)@holds the most recently fetched machine code instruction@
+Fragmentation@Files are split up and stored on different parts of the disc. It will slow down disc access speed.@
+Defragmentation@File parts are physically re-arranged on disc and is needed occasionally to speed up file access@

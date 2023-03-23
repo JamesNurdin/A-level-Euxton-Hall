@@ -1,0 +1,3 @@
+DNUR0000001,19/09/2019 24:09,Test Results,,,,,,test,Inconclusive
+DNUR0000002,19/09/2019 24:09,Prescription,Test,12kg,12:12,19/09/2019 24:09, , , 
+DNUR0000003,30/09/2019 13:35,Test Results,,,,,,test,No issues

@@ -1,0 +1,2 @@
+ANUR0000001,Physiotherapy,Will,12/12/2099 19:2,true,1,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,10/09/2019,STOM0000001,CSUT0000001
+ANUR0000002,Physiotherapy,John,12/12/2099 19:2,true,0,null,P003,Depression,Symptom 1|Symptom 2|Symptom 3|,Sue,10/09/2019,STOM0000001,CSUT0000002
